@@ -8,12 +8,7 @@
 - 📫 How to reach me **itzhyend@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/presentation/d/14T4xjy0kiujyZeipscja-Sb72Z1oEcotFdqlxsjEUOI/edit?usp=sharing](https://docs.google.com/presentation/d/14T4xjy0kiujyZeipscja-Sb72Z1oEcotFdqlxsjEUOI/edit?usp=sharing)
-  
-- <img src="https://raw.githubusercontent.com/itzhyend/itzhyend/output/snake.svg" alt="Snake animation" />
-
-###
-
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rishhi duetheesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishhi duetheesh" height="30" width="40" /></a>
